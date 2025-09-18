@@ -1,3 +1,3 @@
-##bMachine Learning Course Project Records
+## Machine Learning Course Project Records
 
 Each project folder contains its own README.
